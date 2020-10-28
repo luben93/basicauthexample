@@ -1,0 +1,4 @@
+with foo:bar
+`curl localhost:7070 -H 'Authorization: Basic Zm9vOmJhcg=='`
+unsantized user input
+`curl localhost:7070 -H 'Authorization: Basic abc=='`
